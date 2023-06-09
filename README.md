@@ -5,6 +5,10 @@
           
           ADMIN : TUTUL KING
 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28F714&width=435&lines=I'm+👑+JONI+AHMED+👑)](https://git.io/typing-svg)
+
+          
+          
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker0joni&label=Profile%20views&color=0e75b6&style=flat" alt="hacker0joni" /> </p>
 <img align="right" alt="pic" width="150" src="https://github.com/Hacker0joni/Hacker0joni/assets/121124498/92ad7e5c-2b9b-4eb5-844e-38433c0ed541">
 
