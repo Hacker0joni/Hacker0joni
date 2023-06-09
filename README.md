@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm JONI AHMED</h1>
 
 <h3 align="center">NAME : JONI AHMED
-  ADMIN : TUTUL KING</h3>
+          ADMIN : TUTUL KING</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker0joni&label=Profile%20views&color=0e75b6&style=flat" alt="hacker0joni" /> </p>
 
