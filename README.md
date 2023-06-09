@@ -1,4 +1,4 @@
-### Hi there 👋 I'M JONI AHMED 
+
 <h1 align="center">Hi 👋, I'm JONI AHMED</h1>
 
 <h3 align="center">NAME : JONI AHMED
