@@ -6,7 +6,7 @@
           ADMIN : TUTUL KING
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker0joni&label=Profile%20views&color=0e75b6&style=flat" alt="hacker0joni" /> </p>
-<img align="right" alt="pic" width="300" src="https://github.com/Hacker0joni/Hacker0joni/assets/121124498/92ad7e5c-2b9b-4eb5-844e-38433c0ed541">
+<img align="right" alt="pic" width="150" src="https://github.com/Hacker0joni/Hacker0joni/assets/121124498/92ad7e5c-2b9b-4eb5-844e-38433c0ed541">
 
  <h3 align="left">Connect with me:</h3>
 
